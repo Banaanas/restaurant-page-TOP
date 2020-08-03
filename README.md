@@ -59,7 +59,7 @@ Restaurant Page achieved as part of <a href="https://www.theodinproject.com/">Th
 
 <p align="center">
   <a href="https://banaanas.github.io/restaurant-page-TOP/">
-      <img src="src/images/README/screenshot-1.png" alt="Screenshot" width="455" height="350">
+      <img src="src/images/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="400">
   </a>
 </p>
 
@@ -72,10 +72,7 @@ Restaurant Page achieved as part of <a href="https://www.theodinproject.com/">Th
 
 <p align="center">
   <a href="https://banaanas.github.io/restaurant-page-TOP/">
-    <img src="src/images/README/screenshot-2.png" alt="Screenshot" width="280" height="500">
-  </a>
-  <a href="https://banaanas.github.io/restaurant-page-TOP/">
-    <img src="src/images/README/screenshot-3.png" alt="Screenshot" width="280" height="500">
+    <img src="src/images/README/screenshot-2.png" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
 
