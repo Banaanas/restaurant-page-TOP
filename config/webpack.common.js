@@ -72,7 +72,7 @@ module.exports = {
         test: /\.(?:ico|gif|png|jpg|jpeg|webp|svg)$/i,
         loader: "file-loader",
         options: {
-          name: "[path][name].[ext]",
+          name: "[path][name].[ext].[hash]",
           context: "src", // prevent display of src/ in filename
         },
       },
@@ -87,7 +87,7 @@ module.exports = {
         loader: "url-loader",
         options: {
           limit: 8192,
-          name: "[path][name].[ext]",
+          name: "[path][name].[hash].[ext]",
           context: "src", // prevent display of src/ in filename
         },
       },
