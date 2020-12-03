@@ -6,7 +6,10 @@ const contentPage = document.querySelector("#content");
 function homePage() {
   contentPage.innerHTML = "";
 
-  contentPage.insertAdjacentHTML("afterbegin", `
+  contentPage.insertAdjacentHTML(
+    "afterbegin",
+    `
+
     <header id="header">
     <nav id="responsive-menu-nav">
         <a href="#"><img id="responsive-menu-image" src=${burgerMenu} alt="Burger Menu Image"></a>
@@ -27,7 +30,8 @@ function homePage() {
                     <img id ="homepage-logo" src=${logo} alt="Logo La Table Lyonnaise">
                 </section>
             </main>     
-    </div>`);
+    </div>`,
+  );
 }
 
 export default homePage;

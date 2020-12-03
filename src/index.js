@@ -1,5 +1,4 @@
 // Stylesheets
-import "./styles/index.scss";
 import "./styles/index.css";
 import "./styles/normalize.css";
 
@@ -39,7 +38,10 @@ document.body.addEventListener("click", (event) => {
   if (event.target.id === "responsive-menu-image") {
     const navigationContainer = document.querySelector("#navigation-container");
 
-    if (navigationContainer.style.display === "" || navigationContainer.style.display === "none") {
+    if (
+      navigationContainer.style.display === "" ||
+      navigationContainer.style.display === "none"
+    ) {
       navigationContainer.style.display = "flex";
     } else {
       navigationContainer.style.display = "none";

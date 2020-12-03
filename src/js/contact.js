@@ -48,7 +48,7 @@ function contactPage() {
 
                         <div id="button-container">
                             <div class="button">
-                                <button id="form-button" type="submit">Envoyer le message</button>
+                                <button id="form-button" type="submit">Envoyer</button>
                             </div>
                         </div>
                     </form>
