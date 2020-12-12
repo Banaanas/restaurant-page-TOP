@@ -31,7 +31,7 @@
     </a>
 </p>
 
-<h1 align="center">:curry: Restaurant :fork_and_knife: Page :wine_glass:</h1>
+<h1 align="center">🍛 Restaurant :fork_and_knife: Page 🍷</h1>
 
 <p align="center">
     Smooth, elegant and dynamically rendered French Restaurant Page.<br/><br/>
