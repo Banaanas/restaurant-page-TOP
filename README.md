@@ -147,9 +147,6 @@ Project Link: [https://github.com/Banaanas/restaurant-page-TOP](https://github.c
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
-- [GitHub Pages](https://pages.github.com)
-- [Flaticon](https://www.flaticon.com/)
-- [Material Icons](https://material.io/resources/icons/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
