@@ -52,7 +52,8 @@
 - [License](#license)
 - [Contact](#contact)
 
-<!-- TABLE OF CONTENTS -->
+
+<!-- ABOUT THE PROJECT -->
 
 ## About the Project
 Restaurant Page achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
@@ -63,6 +64,8 @@ Restaurant Page achieved as part of <a href="https://www.theodinproject.com/">Th
   </a>
 </p>
 
+
+<!-- PRINCIPAL FEATURES -->
 
 #### Principal Features
 - Homepage - About Us Page - Carte Page - Contact Page ;
@@ -75,6 +78,9 @@ Restaurant Page achieved as part of <a href="https://www.theodinproject.com/">Th
     <img src="./src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
+
+
+<!-- BUILT WITH -->
 
 #### Built With
 
@@ -147,6 +153,7 @@ Project Link: [https://github.com/Banaanas/restaurant-page-TOP](https://github.c
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
