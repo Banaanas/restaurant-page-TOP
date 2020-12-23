@@ -261,6 +261,7 @@ a:hover {
   align-items: center;
   justify-items: center;
   width: 100%;
+  max-width: 50rem;
   height: 100%;
   margin: 1rem;
 }

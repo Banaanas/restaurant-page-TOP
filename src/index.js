@@ -27,8 +27,8 @@ document.body.addEventListener("click", (event) => {
     const carteLink = document.querySelector("#carte-link");
     carteLink.style.color = "#EE4266";
   } else if (event.target.id === "contact-link") {
-    const contactLink = document.querySelector("#contact-link");
     contactPage();
+    const contactLink = document.querySelector("#contact-link");
     contactLink.style.color = "#EE4266";
   }
 });
