@@ -1,0 +1,4 @@
+- On build process, Background Image aren't sent to the right Folder
+for Production ;
+- It must be done manually : COPY (not Cut, because some files still neeed
+to stay in it) the Image Folder and copy it into Styles Folder
