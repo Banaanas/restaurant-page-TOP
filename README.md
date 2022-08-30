@@ -84,11 +84,11 @@ Restaurant Page achieved as part of <a href="https://www.theodinproject.com/">Th
 
 #### Built With
 
-- [Vanilla JavaScript](http://vanilla-js.com/)
+- [JavaScript](http://vanilla-js.com/)
 
 ES6 - ES6 Modules - DOM Manipulation - Dynamic Rendering (only JavaScript is used to generate the content of the Restaurant Page)
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3.org/Style/CSS/Overview.html)
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.html)
 
 Responsive Design - Flexbox - Media Queries
 - [Webpack](https://webpack.js.org/)
